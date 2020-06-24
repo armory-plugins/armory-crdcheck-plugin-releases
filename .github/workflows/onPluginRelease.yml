@@ -9,6 +9,16 @@ jobs:
     name: Add Release To Repo
     runs-on: ubuntu-latest
     steps:
+      - name: create release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.event.client_payload.version }}
+          release_name: Release ${{ github.event.client_payload.version }}
+          draft: false
+          prerelease: false
       - name: checkout code
         uses: actions/checkout@v2
       - name: add release to plugin repo
