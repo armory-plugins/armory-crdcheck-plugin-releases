@@ -1,1 +1,17 @@
-[]
+[
+    {
+      "id": "Armory.CRDCheck",
+      "description": "A plugin to validate a manifest is stable in kubernetes",
+      "provider": "TODO",
+      "releases": [
+        {
+          "version": "0.0.4",
+          "date": "2020-06-24T16:03:11.215Z",
+          "requires": "clouddriver>=0.0.0",
+          "sha512sum": "29f7db7ab165dc82de4621a683fa4241049cb484691793612e47542232ebf4118f5a6246b9d68951f21b443fee780f12be7dfd4f6644351d99147577d02bfdb0",
+          "state": "RELEASE",
+          "url": "https://github.com/armory-plugins/armory-crdcheck-plugin-releases/releases/download/v0.0.4/armory-crdcheck-plugin-v0.0.4.zip"
+        }
+      ]
+    }
+  ]
