@@ -5,6 +5,14 @@
       "provider": "TODO",
       "releases": [
         {
+          "version": "0.0.15",
+          "date": "2020-06-26T22:28:31.347Z",
+          "requires": "clouddriver>=0.0.0",
+          "sha512sum": "959bd73188cdeda3d25003f45e2dba967b5b3958b012b1a2d0c925523629107dd358d7b5d2e0cc32b38c5f81f3bb643c187418d32581c0c3f15003f92cd10c55",
+          "state": "RELEASE",
+          "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.15/armory-crdcheck-plugin-v0.0.15.zip"
+        },
+        {
           "version": "0.0.14",
           "date": "2020-06-26T21:41:47.479Z",
           "requires": "clouddriver>=0.0.0",
