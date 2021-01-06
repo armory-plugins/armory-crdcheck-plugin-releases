@@ -6,6 +6,14 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.24.2"
+          ],
+          "service": "clouddriver",
+          "version": "7.2.1-20210105155350"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
             "1.24.1"
           ],
           "service": "clouddriver",
@@ -91,6 +99,14 @@
     },
     {
       "compatibility": [
+        {
+          "outcome": "unknown",
+          "platformVersions": [
+            "1.24.2"
+          ],
+          "service": "clouddriver",
+          "version": "7.2.1-20210105155350"
+        },
         {
           "outcome": "unknown",
           "platformVersions": [
@@ -182,6 +198,14 @@
         {
           "outcome": "unknown",
           "platformVersions": [
+            "1.24.2"
+          ],
+          "service": "clouddriver",
+          "version": "7.2.1-20210105155350"
+        },
+        {
+          "outcome": "unknown",
+          "platformVersions": [
             "1.24.1"
           ],
           "service": "clouddriver",
@@ -267,6 +291,14 @@
     },
     {
       "compatibility": [
+        {
+          "outcome": "unknown",
+          "platformVersions": [
+            "1.24.2"
+          ],
+          "service": "clouddriver",
+          "version": "7.2.1-20210105155350"
+        },
         {
           "outcome": "unknown",
           "platformVersions": [
