@@ -31,6 +31,14 @@
         {
           "outcome": "success",
           "platformVersions": [
+            "1.23.7"
+          ],
+          "service": "clouddriver",
+          "version": "7.1.2-20210215174234"
+        },
+        {
+          "outcome": "success",
+          "platformVersions": [
             "1.23.6"
           ],
           "service": "clouddriver",
