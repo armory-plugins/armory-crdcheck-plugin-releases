@@ -6,6 +6,23 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.25.4",
+            "1.25.3"
+          ],
+          "service": "clouddriver",
+          "version": "7.3.3-20210322155326"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.25.2"
+          ],
+          "service": "clouddriver",
+          "version": "7.3.2-20210309014831"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
             "1.25.0"
           ],
           "service": "clouddriver",
