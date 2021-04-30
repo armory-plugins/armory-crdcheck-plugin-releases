@@ -6,6 +6,14 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.26.1"
+          ],
+          "service": "clouddriver",
+          "version": "8.0.0-20210422230020"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
             "1.25.4",
             "1.25.3"
           ],
